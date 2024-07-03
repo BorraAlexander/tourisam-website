@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-bg-container {
+    background-image: url('https://img.freepik.com/free-vector/map-travel-elements-with-flat-design_23-2147833495.jpg?t=st=1719146372~exp=1719149972~hmac=63b99aa537a6a2e34031ff2b2899909f6d7859aa309479e5535eecd780a0de2f&w=740');
+    height: 100vh;
+    background-size: cover;
+    padding: 10px;
+}
+
+.home-card-container {
+    background-color: white;
+    padding: 16px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    text-align: center;
+    height: 120px
+}
+
+.home-card-heading {
+    font-family: "Caveat";
+    font-size: 28px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.home-card-description {
+    font-size: 10px;
+    font-family: "Roboto";
+    color: grey;
+    font-weight: bold;
+}
+
+.home-button {
+    height: 30px;
+    width: 80px;
+    font-size: 10px;
+}
+
+
+.fevourite-section-bg-container {
+    height: 100vh;
+    background-size: cover;
+    background-image: url('https://img.freepik.com/free-photo/beautiful-tropical-empty-beach-sea-ocean-with-white-cloud-blue-sky-background_74190-13668.jpg?t=st=1719146341~exp=1719149941~hmac=e23bb060866d1ef138de2086bb249e6184f61ae64c5148725ae6d6d0c3bb8843&w=360');
+    padding: 10px;
+}
+
+.favourite-section-heading {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    margin-bottom: 20px;
+}
+
+.fevourite-place-card-container {
+    background-color: white;
+    border-radius: 15px;
+    padding: 13px;
+    margin: 10px;
+}
+
+.card-heading {
+    font-size: 13px;
+    font-weight: bold;
+    font-family: "Roboto";
+    margin-right: 10px;
+}
+
+.card-description {
+    font-size: 10px;
+    font-family: "Roboto";
+    margin-right: 10px;
+}
+
+.fev-section-card-image {
+    height: 80px;
+    width: 80px;
+}
+
+
+
+.favourite-section-detailView-bg-container {
+    background-color: lightyellow;
+    height: 100vh;
+    padding: 20px;
+}
+
+.detail-view-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.fevourite-section-detail-content-container {
+    padding: 10px;
+    background-color: white;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+p {
+    font-size: 10px;
+}
+
+.un-order-container {
+    list-style-type: decimal;
+    font-size: 10px;
+}
